@@ -9,10 +9,10 @@
 ## GitHub stats
 <div>
   <a  href="https://github-readme-stats.vercel.app/api?username=swampen&count_private=true&show_icons=true&theme=dark">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=swampen&count_private=true&show_icons=true&theme=dark" />
+    <img height="175 align="left" src="https://github-readme-stats.vercel.app/api?username=swampen&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=swampen&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=dark">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swampen&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=dark" />
+    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swampen&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=dark" />
   </a>
 </div>
 
