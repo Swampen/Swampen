@@ -8,10 +8,12 @@
 
 ## GitHub stats
 <div>
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=swampen&count_private=true&show_icons=true&theme=dark">
-    <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=swampen&count_private=true&show_icons=true&theme=dark" />
+  <a  href="https://github-readme-stats.vercel.app/api?username=swampen&count_private=true&show_icons=true&theme=dark">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=swampen&count_private=true&show_icons=true&theme=dark" />
   </a>
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=swampen&hide=php&theme=dark">
-    <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=swampen&hide=php&theme=dark" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=swampen&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=dark">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swampen&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=dark" />
   </a>
 </div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Swampen/Swampen)
